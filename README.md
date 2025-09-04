@@ -10,8 +10,6 @@ Uma aplicação web para **cadastro de clientes, marmitas e pedidos**, incentiva
 - **Miguel Loureiro **– Dev Back-end (Django, Banco de Dados)  
 - **Arthur Francisco ** – Dev Front-end (HTML, CSS, Bootstrap/Tailwind)  
 - **Pedro Avellar** – QA/Testes, Documentação, Deploy Azure  
-- **Integrante 4** – Product Owner (Gestão no Trello, histórias de usuário, protótipos no Figma)  
-
 ---
 
 ## 📌 Funcionalidades Principais
