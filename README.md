@@ -151,10 +151,14 @@ Confirmation: Dados agregados lidos das tabelas Pedido e Usuário.
 
 ---
 
-## 🚀 Stack Tecnológica
-- **Back-end**: Python + Django (sem Generic Views nem Django Forms)  
-- **Banco de Dados**: SQLite (desenvolvimento) / PostgreSQL (produção)  
-- **Front-end**: HTML, CSS (Bootstrap/Tailwind)  
-- **Deploy**: Azure  
+## 🚀 Stack Tecnológica (Aplicação Mobile – alternativa)
+
+Linguagem/Framework: JavaScript + React Native
+
+Banco de Dados Local: SQLite (via biblioteca react-native-sqlite-storage)
+
+Banco de Dados Remoto/Produção: PostgreSQL (via API/servidor)
+
+UI/Design: Componentes React Native + bibliotecas (NativeBase, React Native Paper)
 
 ---
