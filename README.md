@@ -24,17 +24,99 @@ Uma aplicação web para **cadastro de clientes, marmitas e pedidos**, incentiva
 ## 🗂 Histórias de Usuário
 > Definidas com base nos **3Cs (Claras, Concisas e de Valor)**  
 
-1. Como **cliente**, quero me cadastrar para acessar o sistema.  
-2. Como **cliente**, quero editar meu perfil para manter meus dados atualizados.  
-3. Como **cliente**, quero visualizar marmitas disponíveis para escolher minhas refeições.  
-4. Como **cliente**, quero adicionar marmitas a um pedido para fazer a compra.  
-5. Como **cliente**, quero visualizar meus pedidos anteriores para acompanhar meu histórico.  
-6. Como **cliente**, quero assinar um plano semanal ou mensal para facilitar minhas compras.  
-7. Como **admin**, quero cadastrar marmitas no sistema para disponibilizar opções aos clientes.  
-8. Como **admin**, quero visualizar o total de pedidos feitos para acompanhar as vendas.  
-9. Como **admin**, quero ver quantos clientes ativos tenho para monitorar o crescimento.  
-10. Como **cliente**, quero acompanhar o status do meu pedido (pendente, em preparo, entregue) para saber quando chega.  
+-Cadastro de Conta
 
+Card: Como cliente, quero me cadastrar para acessar o sistema.
+
+Conversation: Preencho nome, email e senha.
+
+Confirmation: Dados gravados no banco (tabela Usuário).
+
+
+-Login no Sistema
+
+
+Card: Como cliente, quero fazer login para acessar minhas funcionalidades.
+
+Conversation: Digito email e senha.
+
+Confirmation: Autenticação validada no banco.
+
+
+-Editar Perfil
+
+
+Card: Como cliente, quero atualizar meus dados pessoais.
+
+Conversation: Altero email, nome ou senha.
+
+Confirmation: Alterações salvas na tabela Usuário.
+
+
+-Escolher Marmitas
+
+
+Card: Como cliente, quero visualizar marmitas e adicioná-las ao meu pedido.
+
+Conversation: Navego pelo catálogo, clico em “adicionar”.
+
+Confirmation: Itens registrados em Itens do Pedido.
+
+-Fazer Pedido
+
+
+Card: Como cliente, quero confirmar meu pedido para receber as marmitas.
+
+Conversation: Escolho quantidade e finalizo.
+
+Confirmation: Pedido salvo na tabela Pedido com status “pendente”.
+
+
+-Visualizar Histórico de Pedidos
+
+Card: Como cliente, quero ver pedidos anteriores.
+
+Conversation: Abro meu dashboard.
+
+Confirmation: Dados lidos da tabela Pedido.
+
+
+-Assinar Plano
+
+Card: Como cliente, quero contratar um plano semanal ou mensal.
+
+Conversation: Escolho plano e duração.
+
+Confirmation: Registro em Plano.
+
+
+Histórias do Admin
+
+-Cadastrar Marmitas
+
+Card: Como admin, quero cadastrar novas marmitas no sistema.
+
+Conversation: Preencho nome, calorias, preço e foto.
+
+Confirmation: Marmita salva em Marmita.
+
+
+-Gerenciar Pedidos
+
+Card: Como admin, quero atualizar o status dos pedidos.
+
+Conversation: Mudo de “pendente” para “em preparo” → “entregue”.
+
+Confirmation: Status atualizado na tabela Pedido.
+
+
+-Visualizar Relatórios
+
+Card: Como admin, quero ver total de marmitas vendidas e clientes ativos.
+
+Conversation: Acesso dashboard.
+
+Confirmation: Dados agregados lidos das tabelas Pedido e Usuário.
 ---
 
 ## 📊 Priorização das Entregas
