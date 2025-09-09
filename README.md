@@ -143,7 +143,7 @@ Confirmation: Dados agregados lidos das tabelas Pedido e Usuário.
 
 📌 Tecnologias Utilizadas
 
-Linguagem/Framework (Front-end): JavaScript + React.js
+Linguagem/Framework (Front-end e Back-end): JavaScript + React.js
 
 Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
 
