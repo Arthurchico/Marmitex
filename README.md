@@ -15,7 +15,7 @@ O nosso projeto está sendo desenvolvido com o intuito de auxiliar pessoas que n
 - **Pedro Avellar** 
 ---
 
-## 📌 Funcionalidades Principais
+## 📌 Funcionalidades 
 1. Cadastro/Login de Usuário (cliente e admin)  
 2. Gestão de Marmitas (admin cadastra, clientes visualizam)  
 3. Pedidos (seleção de marmitas, acompanhamento de status)  
@@ -143,7 +143,7 @@ Confirmation: Dados agregados lidos das tabelas Pedido e Usuário.
 
 📌 Tecnologias Utilizadas
 
-Linguagem/Framework (Front-end e Back-end): JavaScript + React.js
+Linguagem/Framework (Front-end e Back-end): HTML + CSS e JavaScript + React.js
 
 Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
 
