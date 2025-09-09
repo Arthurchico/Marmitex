@@ -1,23 +1,24 @@
 # Projeto-Lucas
 ## 🥗 APS – Sistema de Marmitas Sustentáveis  
 
+![Texto Alternativo](https://cdn-icons-png.flaticon.com/512/4310/4310157.png)
+
 ## 🎯 Objetivo
-Uma aplicação web para **cadastro de clientes, marmitas e pedidos**, incentivando alimentação saudável e sustentável.  
+
+O nosso projeto está sendo desenvolvido com o intuito de auxiliar pessoas que não dispõem de tempo para preparar refeições saudáveis no dia a dia. A aplicação web responsiva permitirá que os usuários realizem cadastro, escolham opções de marmitas balanceadas e efetuem pedidos de forma prática, tanto pelo computador quanto pelo celular. Além disso, a plataforma visa promover a adoção de hábitos alimentares mais saudáveis, oferecendo uma solução acessível, conveniente e integrada ao cotidiano dos usuários.
 
 ---
 
 ## 👥 Equipe
-- **Miguel Loureiro **– Dev Back-end (Django, Banco de Dados)  
-- **Arthur Francisco ** – Dev Front-end (HTML, CSS, Bootstrap/Tailwind)  
-- **Pedro Avellar** – QA/Testes, Documentação, Deploy Azure  
+- **Miguel Loureiro**
+- **Arthur Francisco** 
+- **Pedro Avellar** 
 ---
 
 ## 📌 Funcionalidades Principais
 1. Cadastro/Login de Usuário (cliente e admin)  
 2. Gestão de Marmitas (admin cadastra, clientes visualizam)  
 3. Pedidos (seleção de marmitas, acompanhamento de status)  
-4. Planos de Assinatura (semanal ou mensal)  
-5. Dashboard (clientes e admin com visões diferentes)  
 
 ---
 
@@ -132,33 +133,18 @@ Confirmation: Dados agregados lidos das tabelas Pedido e Usuário.
 - **Baixa (pós-MVP)**  
   - Planos de Assinatura  
   - Dashboard avançado (gráficos, métricas detalhadas)  
-
 ---
-
-## 🧑‍💻 Papéis da Equipe
-- **PO/Scrum Master** → Organização no Trello/Jira, definição de histórias, comunicação com professor.  
-- **Dev Back-end** → Modelos Django, banco de dados, API.  
-- **Dev Front-end** → Templates Django, HTML, CSS, responsividade.  
-- **QA/DevOps** → Testes unitários, documentação, deploy no Azure.  
-
----
-
-## 📋 Organização
-- **Trello** → Backlog com as histórias priorizadas.  
-- **GitHub** → Repositório público com este README e código-fonte.  
 
 📎 **Print do Trello aqui**  
 
 ---
 
-## 🚀 Stack Tecnológica (Aplicação Mobile – alternativa)
+## 🚀 Stack Tecnológica (Aplicação Web – alternativa)
 
-Linguagem/Framework: JavaScript + React Native
+📌 Tecnologias Utilizadas
 
-Banco de Dados Local: SQLite (via biblioteca react-native-sqlite-storage)
+Linguagem/Framework (Front-end): JavaScript + React.js
 
-Banco de Dados Remoto/Produção: PostgreSQL (via API/servidor)
-
-UI/Design: Componentes React Native + bibliotecas (NativeBase, React Native Paper)
+Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
 
 ---
