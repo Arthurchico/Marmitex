@@ -28,6 +28,10 @@ Para o desenvolvimento desse projeto utilizamos:
 - [Figma](https://www.figma.com/design/teISHJKOZdnJXc4PcsHMz0/Marmitex?node-id=3-5&t=pribS653T5Ew2jtC-0): utilizado para prototipação.
 
 ---
+🪟Diagrama de atividades do sistema
+
+[Diagrama de atividades](https://www.canva.com/design/DAGzXAC2rGU/Z5S40FJHBrG6fbi9pfS5Mg/edit?utm_content=DAGzXAC2rGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 🗂 Histórias de Usuário
 > Definidas com base nos **3Cs (Claras, Concisas e de Valor)**  
 
@@ -39,9 +43,7 @@ Conversation: Preencho nome, email e senha.
 
 Confirmation: Dados gravados no banco (tabela Usuário).
 
-
 -Login no Sistema
-
 
 Card: Como cliente, quero fazer login para acessar minhas funcionalidades.
 
@@ -51,7 +53,6 @@ Confirmation: Autenticação validada no banco.
 
 
 -Editar Perfil
-
 
 Card: Como cliente, quero atualizar meus dados pessoais.
 
