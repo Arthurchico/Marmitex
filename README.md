@@ -1,5 +1,5 @@
 # Marmitex
-## 🥗 APS – Sistema de Marmitas Sustentáveis  
+## 🥗 Sistema de Marmitas Sustentáveis  
 
 ![Texto Alternativo](https://cdn-icons-png.flaticon.com/512/4310/4310157.png)
 
@@ -21,7 +21,13 @@ O nosso projeto está sendo desenvolvido com o intuito de auxiliar pessoas que n
 3. Pedidos (seleção de marmitas, acompanhamento de status)  
 
 ---
+⚙️ **Ferramentas tecnológicas**  
+Para o desenvolvimento desse projeto utilizamos:
 
+- [Trello](https://trello.com/invite/b/68b609f840b24b48824d8958/ATTI7d213796891627f40f024f6adac0715a59762156/marmitex): utilizado para gestão do projeto;
+- [Figma](https://www.figma.com/design/teISHJKOZdnJXc4PcsHMz0/Marmitex?node-id=3-5&t=pribS653T5Ew2jtC-0): utilizado para prototipação.
+
+---
 ## 🗂 Histórias de Usuário
 > Definidas com base nos **3Cs (Claras, Concisas e de Valor)**  
 
@@ -143,7 +149,7 @@ Confirmation: Dados agregados lidos das tabelas Pedido e Usuário.
 
 📌 Tecnologias Utilizadas
 
-Linguagem/Framework (Front-end e Back-end): HTML + CSS e JavaScript + React.js
+Linguagem/Framework (Front-end e Back-end): HTML + CSS e JavaScript
 
 Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
 
