@@ -50,7 +50,7 @@ Para o desenvolvimento desse projeto utilizamos:
 ---
 
 📎 **Print do Trello aqui**  
-
+![Trello](assets/Trelloprint.png)
 ---
 
 ## 🚀 Stack Tecnológica (Aplicação Web – alternativa)
