@@ -49,7 +49,7 @@ Para o desenvolvimento desse projeto utilizamos:
   - Dashboard avançado (gráficos, métricas detalhadas)  
 ---
 
-📎 **Print do Trello aqui**  
+📎**Print do Trello**  
 ![Trello](assets/Trelloprint.png)
 ---
 
