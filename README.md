@@ -48,16 +48,19 @@ Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqli
 ---
 
 ## 📊 Priorização das Entregas
-- **Alta (MVP)**  
-  - Cadastro/Login de Usuário  
-  - Gestão de Marmitas  
-  - Pedido (criação e status)  
+- **Alta**  
+  - Cadastro
+  - Login de Usuário  
+  - Filtrar marmitas
+  - Escolher Marmitas
+  - Fazer Pedido
+  - Visualizar Detalhes do Pedido após Finalização
 
 - **Média**  
-  - Dashboard básico  
-  - Histórico de pedidos  
+  - Alterar Senha  
+  - Editar Perfil
 
-- **Baixa (pós-MVP)**  
+- **Baixa**  
   - Planos de Assinatura  
-  - Dashboard avançado (gráficos, métricas detalhadas)  
+  - Sistema de avaliação
 ---
