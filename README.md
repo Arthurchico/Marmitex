@@ -24,8 +24,21 @@ O nosso projeto está sendo desenvolvido com o intuito de auxiliar pessoas que n
 ⚙️ **Ferramentas tecnológicas**  
 Para o desenvolvimento desse projeto utilizamos:
 
-- [Trello](https://trello.com/invite/b/68b609f840b24b48824d8958/ATTI7d213796891627f40f024f6adac0715a59762156/marmitex): utilizado para gestão do projeto;
 - [Figma](https://www.figma.com/design/teISHJKOZdnJXc4PcsHMz0/Marmitex?node-id=3-5&t=pribS653T5Ew2jtC-0): utilizado para prototipação.
+- [Trello](https://trello.com/invite/b/68b609f840b24b48824d8958/ATTI7d213796891627f40f024f6adac0715a59762156/marmitex): utilizado para gestão do projeto;
+
+📎**Print do Trello**  
+![Trello](assets/Trelloprint.png)
+
+---
+
+## 🚀 Stack Tecnológica (Aplicação Web – alternativa)
+
+📌 Tecnologias Utilizadas
+
+Linguagem/Framework (Front-end e Back-end): HTML + CSS e JavaScript
+
+Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
 
 ---
 🪟Diagrama de atividades do sistema
@@ -47,18 +60,4 @@ Para o desenvolvimento desse projeto utilizamos:
 - **Baixa (pós-MVP)**  
   - Planos de Assinatura  
   - Dashboard avançado (gráficos, métricas detalhadas)  
----
-
-📎**Print do Trello**  
-![Trello](assets/Trelloprint.png)
----
-
-## 🚀 Stack Tecnológica (Aplicação Web – alternativa)
-
-📌 Tecnologias Utilizadas
-
-Linguagem/Framework (Front-end e Back-end): HTML + CSS e JavaScript
-
-Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
-
 ---
