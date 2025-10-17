@@ -43,7 +43,7 @@ Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqli
 ---
 
 ## Demonstração do projeto
-- [Drive](https://drive.google.com/file/d/1pecSs-FtQkvAk_WbTg85glE0UVjzmnW9/view?usp=sharing): utilizado para prototipação.
+- [Demo do projeto](https://drive.google.com/file/d/1pecSs-FtQkvAk_WbTg85glE0UVjzmnW9/view?usp=sharing):video mostrando as 3 user histories prontas .
 ---
 🪟Diagrama de atividades do sistema
 
