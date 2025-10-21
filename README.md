@@ -42,6 +42,15 @@ Banco de Dados Local: MySQL
 
 ---
 
+## 👨‍💻 Experiência programando em dupla
+
+![Imagem ilustrativa da programação em dupla](assets/nome-da-imagem.png)
+
+Enquanto criávamos as telas de **login**, **cadastro** e **recuperação de senha**, percebemos que alguns botões não estavam levando para os lugares certos, o que atrapalhava a navegação do app. 
+
+Pra resolver isso, decidimos trabalhar em dupla, olhando o código juntos e ajustando em tempo real. Esse trabalho lado a lado ajudou bastante a encontrar os erros mais rápido e deixar tudo funcionando direitinho.
+
+---
 ## Demonstração do projeto
 - [Demo do projeto](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
 ---
