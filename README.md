@@ -44,7 +44,7 @@ Banco de Dados Local: MySQL
 
 ## 👨‍💻 Experiência programando em dupla
 
-![Imagem ilustrativa da programação em dupla](assets/nome-da-imagem.png)
+![Imagem ilustrativa da programação em dupla](assets/ad04ed9c-8cb0-4898-85d0-3120f3860664.jpg)
 
 Enquanto criávamos as telas de **login**, **cadastro** e **recuperação de senha**, percebemos que alguns botões não estavam levando para os lugares certos, o que atrapalhava a navegação do app. 
 
