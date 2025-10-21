@@ -36,9 +36,9 @@ Para o desenvolvimento desse projeto utilizamos:
 
 📌 Tecnologias Utilizadas
 
-Linguagem/Framework (Front-end e Back-end): HTML + CSS e JavaScript
+Linguagem/Framework (Front-end e Back-end): HTML + CSS, JavaScript e Node.js com Express
 
-Banco de Dados Local (teste/desenvolvimento): SQLite (via biblioteca better-sqlite3 ou similar)
+Banco de Dados Local: MySQL
 
 ---
 
