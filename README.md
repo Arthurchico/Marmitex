@@ -59,21 +59,3 @@ Pra resolver isso, decidimos trabalhar em dupla, olhando o código juntos e ajus
 [Diagrama de atividades](https://www.canva.com/design/DAGzXAC2rGU/Z5S40FJHBrG6fbi9pfS5Mg/edit?utm_content=DAGzXAC2rGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
-
-## 📊 Priorização das Entregas
-- **Alta**  
-  - Cadastro
-  - Login de Usuário  
-  - Filtrar marmitas
-  - Escolher Marmitas
-  - Fazer Pedido
-  - Visualizar Detalhes do Pedido após Finalização
-
-- **Média**  
-  - Alterar Senha  
-  - Editar Perfil
-
-- **Baixa**  
-  - Planos de Assinatura  
-  - Sistema de avaliação
----
