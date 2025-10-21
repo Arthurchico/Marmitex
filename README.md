@@ -28,7 +28,7 @@ Para o desenvolvimento desse projeto utilizamos:
 - [Trello](https://trello.com/invite/b/68b609f840b24b48824d8958/ATTI7d213796891627f40f024f6adac0715a59762156/marmitex): utilizado para gestão do projeto;
 
 📎**Print do Trello**  
-![Trello](assets/Trelloprint.png)
+![Trello](assets/printtrello.png)
 
 ---
 
