@@ -61,5 +61,5 @@ O resultado foi uma navegação mais fluida e funcional, com todas as rotas corr
 [Diagrama de atividades](https://www.canva.com/design/DAGzXAC2rGU/Z5S40FJHBrG6fbi9pfS5Mg/edit?utm_content=DAGzXAC2rGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
-## ⚙️![Bug tracker](assets/bugtracker.pn)
+## ⚙️![Bug tracker](assets/bugtracker.png)
 
