@@ -46,9 +46,11 @@ Banco de Dados Local: MySQL
 
 ![Imagem ilustrativa da programação em dupla](assets/ad04ed9c-8cb0-4898-85d0-3120f3860664.jpg)
 
-Enquanto criávamos as telas de **login**, **cadastro** e **recuperação de senha**, percebemos que alguns botões não estavam levando para os lugares certos, o que atrapalhava a navegação do app. 
+Durante o desenvolvimento das telas de login, cadastro e recuperação de senha, identificamos alguns problemas de navegação: determinados botões não estavam redirecionando corretamente para as telas desejadas, o que comprometia a usabilidade do aplicativo.
 
-Pra resolver isso, decidimos trabalhar em dupla, olhando o código juntos e ajustando em tempo real. Esse trabalho lado a lado ajudou bastante a encontrar os erros mais rápido e deixar tudo funcionando direitinho.
+Para resolver essas inconsistências, optamos por trabalhar em programação em par (pair programming), revisando o código juntos e realizando os ajustes em tempo real. Essa prática colaborativa facilitou a detecção dos erros e permitiu uma correção mais rápida e precisa, além de promover a troca de conhecimentos e o alinhamento de boas práticas entre os membros da equipe.
+
+O resultado foi uma navegação mais fluida e funcional, com todas as rotas corrigidas e o fluxo de autenticação do aplicativo completamente operacional.
 
 ---
 ## Demonstração do projeto
