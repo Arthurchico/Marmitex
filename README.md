@@ -44,7 +44,7 @@ Banco de Dados Local: MySQL
 
 ## 👨‍💻 Experiência programando em dupla
 
-![Imagem ilustrativa da programação em dupla](assets/ad04ed9c-8cb0-4898-85d0-3120f3860664.jpg)
+![Imagem ilustrativa da programação em dupla](assets/programacaopar.jpeg)
 
 Durante o desenvolvimento das telas de login, cadastro e recuperação de senha, identificamos alguns problemas de navegação: determinados botões não estavam redirecionando corretamente para as telas desejadas, o que comprometia a usabilidade do aplicativo.
 
