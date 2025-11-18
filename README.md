@@ -29,7 +29,7 @@ Para o desenvolvimento desse projeto utilizamos:
 
 📎**Print do Trello**  
 ![Trello](assets/printtrello.png)
-
+![Trello2.0](assets/trelooo.png)
 ---
 
 ## 🚀 Stack Tecnológica (Aplicação Web – alternativa)
