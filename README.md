@@ -73,5 +73,5 @@ Essas entregas consolidaram a estrutura central do sistema, tornando a navegaç�
 
 ---
 ## ⚙️**Bug tracker** 
-![Bug tracker](assets/bugtracker.png)
+![Bug tracker](assets/bugtrackeeer.png)
 
