@@ -51,7 +51,17 @@ Durante o desenvolvimento das telas de login, cadastro e recuperação de senha,
 Para resolver essas inconsistências, optamos por trabalhar em programação em par (pair programming), revisando o código juntos e realizando os ajustes em tempo real. Essa prática colaborativa facilitou a detecção dos erros e permitiu uma correção mais rápida e precisa, além de promover a troca de conhecimentos e o alinhamento de boas práticas entre os membros da equipe.
 
 O resultado foi uma navegação mais fluida e funcional, com todas as rotas corrigidas e o fluxo de autenticação do aplicativo completamente operacional.
+---
 
+## 👨‍💻 Experiência programando em dupla 2.0
+
+Durante a implementação da tela de Cardápio, identificamos diversos problemas relacionados ao carregamento e à exibição das informações provenientes do banco de dados. Em alguns casos, as consultas não retornavam os dados esperados; em outros, o formato recebido não era compatível com o modelo utilizado na interface, o que resultava em falhas na renderização do cardápio.
+
+Essas inconsistências afetavam diretamente a usabilidade, já que o aplicativo não conseguia exibir corretamente os itens disponíveis, prejudicando a experiência do usuário.
+
+Para solucionar esses problemas, adotamos a prática de programação em par (pair programming). Trabalhando em dupla, analisamos as queries, revisamos a lógica de comunicação com o banco e sincronizamos o fluxo de dados entre o backend e a interface. Essa abordagem colaborativa tornou o processo de depuração mais eficaz e possibilitou uma correção mais rápida, precisa e alinhada entre os membros da equipe.
+
+Como resultado, a tela de Cardápio passou a funcionar de forma estável, apresentando todas as informações corretamente atualizadas e refletindo fielmente os dados do banco. O fluxo de navegação também se tornou mais consistente, proporcionando uma experiência mais fluida ao usuário.
 ---
 ## Demonstração do projeto
 - [Demo do projeto](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
