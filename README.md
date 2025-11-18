@@ -57,13 +57,11 @@ O resultado foi uma navegação mais fluida e funcional, com todas as rotas corr
 
 ## 👨‍💻 Experiência programando em dupla 2.0
 
-Durante a implementação da tela de Cardápio, identificamos diversos problemas relacionados ao carregamento e à exibição das informações provenientes do banco de dados. Em alguns casos, as consultas não retornavam os dados esperados; em outros, o formato recebido não era compatível com o modelo utilizado na interface, o que resultava em falhas na renderização do cardápio.
+Durante a Sprint 3, avançamos no desenvolvimento das funcionalidades essenciais da plataforma, implementando quatro user stories principais. Começamos pela edição de perfil, onde estruturamos a tela e o fluxo que permitem ao usuário atualizar suas informações pessoais de forma simples e segura, garantindo sincronização correta com o banco de dados. Em seguida, desenvolvemos a visualização dos detalhes do pedido, criando uma interface que exibe todas as informações relevantes da compra, como itens selecionados, valores e status, proporcionando maior transparência ao usuário.
 
-Essas inconsistências afetavam diretamente a usabilidade, já que o aplicativo não conseguia exibir corretamente os itens disponíveis, prejudicando a experiência do usuário.
+Também implementamos o processo de fazer pedido, integrando a seleção de produtos ao backend e garantindo que todo o fluxo  da escolha à confirmação  funcionasse de forma estável e intuitiva. Por fim, finalizamos o sistema de avaliação, permitindo que o usuário deixe feedback sobre suas experiências, contribuindo para a melhoria contínua do serviço.
 
-Para solucionar esses problemas, adotamos a prática de programação em par (pair programming). Trabalhando em dupla, analisamos as queries, revisamos a lógica de comunicação com o banco e sincronizamos o fluxo de dados entre o backend e a interface. Essa abordagem colaborativa tornou o processo de depuração mais eficaz e possibilitou uma correção mais rápida, precisa e alinhada entre os membros da equipe.
-
-Como resultado, a tela de Cardápio passou a funcionar de forma estável, apresentando todas as informações corretamente atualizadas e refletindo fielmente os dados do banco. O fluxo de navegação também se tornou mais consistente, proporcionando uma experiência mais fluida ao usuário.
+Essas entregas consolidaram a estrutura central do sistema, tornando a navegação mais completa e aproximando o projeto do funcionamento final desejado.
 ---
 ## Demonstração do projeto
 - [Screencast](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
