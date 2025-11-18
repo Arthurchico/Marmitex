@@ -72,6 +72,6 @@ Essas entregas consolidaram a estrutura central do sistema, tornando a navegaç�
 [Diagrama de atividades](https://www.canva.com/design/DAGzXAC2rGU/8jsmHRh0VAPmJsPWY6Jegw/view?utm_content=DAGzXAC2rGU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha495ff7f22#1)
 
 ---
-## ⚙️**Bug tracker** 
+## ⚙️**Bug tracker final** 
 ![Bug tracker](assets/bugtrackeeer.png)
 
