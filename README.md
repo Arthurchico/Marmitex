@@ -29,6 +29,8 @@ Para o desenvolvimento desse projeto utilizamos:
 
 📎**Print do Trello**  
 ![Trello](assets/printtrello.png)
+
+📎**Print do Trello2.0** 
 ![Trello2.0](assets/trelooo.png)
 ---
 
@@ -65,7 +67,7 @@ Como resultado, a tela de Cardápio passou a funcionar de forma estável, aprese
 ---
 ## Demonstração do projeto
 - [Screencast](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
-- - [Screencast2.0](https://drive.google.com/file/d/1mcC7GndSZuz94g0z6UMzbMcGBZ0OrXdw/view?usp=sharing) Com as 6 ultimas histórias de usuarios implementada:.
+- [Screencast2.0](https://drive.google.com/file/d/1mcC7GndSZuz94g0z6UMzbMcGBZ0OrXdw/view?usp=sharing) Com as 6 ultimas histórias de usuarios implementada:.
 ---
 🪟Diagrama de atividades do sistema
 
