@@ -64,7 +64,8 @@ Para solucionar esses problemas, adotamos a prática de programação em par (pa
 Como resultado, a tela de Cardápio passou a funcionar de forma estável, apresentando todas as informações corretamente atualizadas e refletindo fielmente os dados do banco. O fluxo de navegação também se tornou mais consistente, proporcionando uma experiência mais fluida ao usuário.
 ---
 ## Demonstração do projeto
-- [Demo do projeto](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
+- [Screencast](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
+- - [Screencast2.0](https://drive.google.com/file/d/1mcC7GndSZuz94g0z6UMzbMcGBZ0OrXdw/view?usp=sharing) Com as 6 ultimas histórias de usuarios implementada:.
 ---
 🪟Diagrama de atividades do sistema
 
