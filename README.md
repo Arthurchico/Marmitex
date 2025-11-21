@@ -64,8 +64,7 @@ Também implementamos o processo de fazer pedido, integrando a seleção de prod
 Essas entregas consolidaram a estrutura central do sistema, tornando a navegação mais completa e aproximando o projeto do funcionamento final desejado.
 ---
 ## Demonstração do projeto
-- [Screencast](https://drive.google.com/file/d/1f9CWffTIcbGH0WevOli8SQ4z2urSqER6/view?usp=sharing) Com as 3 primeiras histórias de usuarios implementada:.
-- [Screencast2.0](https://drive.google.com/file/d/1mcC7GndSZuz94g0z6UMzbMcGBZ0OrXdw/view?usp=sharing) Com as 6 ultimas histórias de usuarios implementada:.
+- [Screencast](https://drive.google.com/file/d/17c92FilwFrDSenm4oUsdi9c3FezPRARy/view?usp=sharing) 
 ---
 🪟Diagrama de atividades do sistema
 
